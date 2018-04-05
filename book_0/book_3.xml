@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Capitalism and Development</title>
+  <id>urn:book:ad119ad8-a098-487f-bf02-6cc51783770e</id>
+  <updated>2018-04-04T10:30:37Z</updated>
+  <link href="./book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Capitalism and Development" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Leslie%20Sklair/Capitalism%20and%20Development%20%283%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Leslie%20Sklair/Capitalism%20and%20Development%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Leslie%20Sklair/Capitalism%20and%20Development%20%283%29/Capitalism%20and%20Development%20-%20Leslie%20Sklair.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Leslie Sklair</name>
+    <uri>../author_0/author_5_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <category term="Social Sciences" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Social Sciences
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Social Sciences</p>
+  </content>
+  <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Leslie Sklair" />
+  <link href="http://www.goodreads.com/book/title/Capitalism%20and%20Development" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Capitalism%20and%20Development" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Capitalism%20and%20Development%20Leslie%20Sklair" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Capitalism%20and%20Development&amp;field-author=Leslie%20Sklair" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Leslie%20Sklair" type="text/html" rel="related" title="Leslie Sklair on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Leslie%20Sklair" type="text/html" rel="related" title="Leslie Sklair on Wikipedia" />
+  <link href="http://www.librarything.com/author/SklairLeslie" type="text/html" rel="related" title="Leslie Sklair on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Leslie%20Sklair" type="text/html" rel="related" title="Leslie Sklair on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Leslie%20Sklair" type="text/html" rel="related" title="Leslie Sklair on ISFDB" />
+</entry>

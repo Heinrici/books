@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Apr 4, 2018</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Apr 4, 2018" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Capitalism and Development [April 5, 2018]</title>
+    <id>calibre:book:3</id>
+    <updated>2018-04-04T10:30:37Z</updated>
+    <link href="../../Leslie%20Sklair/Capitalism%20and%20Development%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leslie%20Sklair/Capitalism%20and%20Development%20%283%29/Capitalism%20and%20Development%20-%20Leslie%20Sklair.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Leslie Sklair</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Social Sciences" />
+    <summary>Social Sciences</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paul J. Silvia-How to Write a Lot A Practical Guide to Productive Academic Writing-American Psychological Association (APA) (2007) [April 5, 2018]</title>
+    <id>calibre:book:2</id>
+    <updated>2018-04-04T10:23:33Z</updated>
+    <link href="../../Paul%20J.%20Silvia/Paul%20J.%20Silvia-How%20to%20Write%20a%20Lot%20A%20Practical%20Guide%20to%20Productive%20Academic%20Writing-American%20Psyc%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20J.%20Silvia/Paul%20J.%20Silvia-How%20to%20Write%20a%20Lot%20A%20Practical%20Guide%20to%20Productive%20Academic%20Writing-American%20Psyc%20%282%29/Paul%20J.%20Silvia-How%20to%20Write%20a%20Lot%20A%20Practi%20-%20Paul%20J.%20Silvia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Paul J. Silvia</name>
+      <uri>../author_0/author_4_Page_1.xml</uri>
+    </author>
+    <published>2010-05-28T10:58:55Z</published>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
